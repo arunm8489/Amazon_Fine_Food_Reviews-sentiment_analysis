@@ -19,6 +19,8 @@ I have written a blog explaining the approach i used to solve this sentiment ana
 
 <img src="https://github.com/arunm8489/Amazon_Fine_Food_Reviews-sentiment_analysis/blob/master/img/result_2.png" alt="amazon" width="700">
 
+We got a better generalized model using LSTM with 2 layers.
+
 **Usage**
 
 
