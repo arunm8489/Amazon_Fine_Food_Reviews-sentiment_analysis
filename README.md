@@ -15,7 +15,7 @@ https://www.kaggle.com/snap/amazon-fine-food-reviews
 Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
 
 ## Blog explanation: 
-I have written a blog explaining the approach i used to solve this sentiment analysis problem from basic EDA to deployment. You can read my medium blog for that.
+I have written a blog explaining the approach i used to solve this sentiment analysis problem from basic EDA to deployment. You can read my <a href="https://medium.com/@arunm8489/sentiment-analysis-on-amazon-food-reviews-from-eda-to-deployment-f985c417b0c">medium blog</a> for that.
 
 ## Results:
 
