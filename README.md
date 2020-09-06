@@ -27,6 +27,8 @@ First install the requirements
 
 > !pip install -r requirements.txt
 
+Download the weights from <a href='https://drive.google.com/drive/folders/13QNhlb-HA_3Mn42yGdQSYBDVCdZ7316S?usp=sharing'>drive</a>
+
 Start our applicaion by running
 
 > python app.py 
