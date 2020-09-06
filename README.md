@@ -21,14 +21,19 @@ I have written a blog explaining the approach i used to solve this sentiment ana
 
 **Usage**
 
-note: After cloning the repository if you donot need the notebooks, you are free to delete Notebook folder.
 
-First install the requirements
+1. First install the requirements
 
 > !pip install -r requirements.txt
 
-Download the weights from <a href='https://drive.google.com/drive/folders/13QNhlb-HA_3Mn42yGdQSYBDVCdZ7316S?usp=sharing'>drive</a>
+2. Download the weights from <a href='https://drive.google.com/drive/folders/13QNhlb-HA_3Mn42yGdQSYBDVCdZ7316S?usp=sharing'>drive</a> and move the contents to 'weights' folder.
 
-Start our applicaion by running
+3. Start our applicaion by running
 
 > python app.py 
+
+note:
+After cloning the repository if you donot need the notebooks, you are free to delete Notebook folder.
+You can also test our application using tmp.py
+
+> python tmp.py
