@@ -12,9 +12,9 @@ Amazon Fine Food Reviews is sentiment analysis problem where we classify each re
 **Results**:
 
 
-<img src="https://github.com/arunm8489/Amazon_Fine_Food_Reviews-sentiment_analysis/blob/master/img/result_1.png" alt="amazon" width="1000" height="300">
+<img src="https://github.com/arunm8489/Amazon_Fine_Food_Reviews-sentiment_analysis/blob/master/img/result_1.png" alt="amazon" width="700">
 
-<img src="https://github.com/arunm8489/Amazon_Fine_Food_Reviews-sentiment_analysis/blob/master/img/result_2.png" alt="amazon" width="1000" height="300">
+<img src="https://github.com/arunm8489/Amazon_Fine_Food_Reviews-sentiment_analysis/blob/master/img/result_2.png" alt="amazon" width="700">
 
 **Flask usage**
 
