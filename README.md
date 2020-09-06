@@ -6,14 +6,18 @@
 
 Amazon Fine Food Reviews is sentiment analysis problem where we classify each review as positive and negative using machine learning and deeplearning techniques. Finally we will deploy our best model using Flask.
 
-**Data Source**: https://www.kaggle.com/snap/amazon-fine-food-reviews
+## Data Source: 
 
-**Objective**: Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
+https://www.kaggle.com/snap/amazon-fine-food-reviews
 
-**Blog explanation**: 
+## Objective: 
+
+Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
+
+## Blog explanation: 
 I have written a blog explaining the approach i used to solve this sentiment analysis problem from basic EDA to deployment. You can read my medium blog for that.
 
-**Results**:
+## Results:
 
 <img src="https://github.com/arunm8489/Amazon_Fine_Food_Reviews-sentiment_analysis/blob/master/img/result_1.png" alt="amazon" width="700">
 
@@ -21,8 +25,7 @@ I have written a blog explaining the approach i used to solve this sentiment ana
 
 We got a better generalized model using LSTM with 2 layers.
 
-**Usage**
-
+## Usage
 
 1. First install the requirements
 
