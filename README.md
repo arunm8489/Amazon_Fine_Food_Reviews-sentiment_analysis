@@ -24,7 +24,7 @@ I have written a blog explaining the approach i used to solve this sentiment ana
 
 1. First install the requirements
 
-> !pip install -r requirements.txt
+> pip install -r requirements.txt
 
 2. Download the weights from <a href='https://drive.google.com/drive/folders/13QNhlb-HA_3Mn42yGdQSYBDVCdZ7316S?usp=sharing'>drive</a> and move the contents to 'weights' folder.
 
