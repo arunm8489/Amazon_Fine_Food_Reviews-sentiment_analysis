@@ -8,3 +8,13 @@ Amazon Fine Food Reviews is sentiment analysis problem where we classify each re
 **Data Source**: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 **Objective**: Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
+
+**Results**:
+
+
+<img src="https://github.com/arunm8489/Amazon_Fine_Food_Reviews-sentiment_analysis/blob/master/img/result_1.png" alt="amazon" width="1000" height="300">
+
+<img src="https://github.com/arunm8489/Amazon_Fine_Food_Reviews-sentiment_analysis/blob/master/img/result_2.png" alt="amazon" width="1000" height="300">
+
+**Flask usage**
+
