@@ -1,5 +1,5 @@
 
-<img src="https://github.com/arunm8489/Amazon_Fine_Food_Reviews-sentiment_analysis/blob/master/img/food.jpeg" alt="amazon" width="1000" height="300">
+<img src="https://github.com/arunm8489/Amazon_Fine_Food_Reviews-sentiment_analysis/blob/master/img/amazonfood.png" alt="amazon" width="1000" height="300">
 
 # Amazon_Fine_Food_Reviews-sentiment_analysis
 
@@ -21,7 +21,9 @@ I have written a blog explaining the approach i used to solve this sentiment ana
 
 **Usage**
 
-note: After cloning the repository if you donot need the notebooks, you are free to delete Notebook folder
+note: After cloning the repository if you donot need the notebooks, you are free to delete Notebook folder.
+
+First install the requirements
 
 > !pip install -r requirements.txt
 
